@@ -1,0 +1,1 @@
+Javascript is interesting language.
